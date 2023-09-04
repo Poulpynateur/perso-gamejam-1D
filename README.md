@@ -1,6 +1,12 @@
 # perso-gamejam-1D
 
-Prototype de jeu créer en une semaine.
+Game prototype created in one week. Obstacles are invisibles until you hit them !
 
-- Contrainte : Seulement trois inputs
-- Théme : Partir de rien
+- Constraints : Only tree inputs to control the player
+- Theme : Start from nothing
+
+## Setup and Features
+
+- Created with SFML and OpenGL (pixel perfect display)
+- Based on a custom renderer, everything is based on pixel arrays (effects, map walls, player, ...)
+- Sytem to easily create map based on simple BMP (including moving obstacles)
