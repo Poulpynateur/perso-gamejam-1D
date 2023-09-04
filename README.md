@@ -5,6 +5,8 @@ Game prototype created in one week. Obstacles are invisibles until you hit them 
 - Constraints : Only tree inputs to control the player
 - Theme : Start from nothing
 
+![Game_preview](./game.gif)
+
 ## Setup and Features
 
 - Created with SFML and OpenGL (pixel perfect display)
